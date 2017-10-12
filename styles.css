@@ -1,0 +1,39 @@
+
+body{
+  font-family: 'Roboto', cursive;
+}
+
+h1 {
+  color:red;
+  color: blue;
+  font-size: 40px;
+  font-family: arial;
+  font-weight: bold;
+  text-align: center
+}
+
+h1.header{
+  color:purple;
+  border-style: solid;
+}
+
+h2{
+  text-align: left;
+}
+
+img{
+  width: 200px;
+}
+
+body{
+  background-color: white;
+  box-shadow: 10px 5px 5px black;
+  border-width: 1px;
+}
+
+
+.heading{
+  boarder: 1px solid black;
+  padding: 20px;
+  margin:20px;
+}
